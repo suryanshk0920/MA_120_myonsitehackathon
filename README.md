@@ -27,10 +27,11 @@ Installation
 
     Clone the repository:
 
-    bash
+    bash git clone https://github.com/suryanshk0920/face_recognition_system_for_ehr 
+    cd face_recognition_system_for_ehr
 
-git clone https://github.com/suryanshk0920/face_recognition_system_for_ehr
-cd face_recognition_system_for_ehr
+
+
 
 Install the required libraries:
 
