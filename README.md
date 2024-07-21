@@ -29,8 +29,8 @@ Installation
 
     bash
 
-git clone https://github.com/suryanshk0920/hospital-face-recognition.git
-cd hospital-face-recognition
+git clone https://github.com/suryanshk0920/face_recognition_system_for_ehr
+cd face_recognition_system_for_ehr
 
 Install the required libraries:
 
